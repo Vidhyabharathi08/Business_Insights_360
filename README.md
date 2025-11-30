@@ -1,7 +1,7 @@
 # Business_Insights_360
 
 ## Problem Statement:
-AtliQ Hardware is a global consumer electronics manufacturer, comparable to brands like HP and Dell. Although the company has been growing steadily worldwide, it has been facing major challenges in the Latin American market.A key reason behind these challenges is the company’s reliance on Excel files to manage large and complex datasets. While Excel is useful for basic reporting, it becomes inefficient as data volume increases. 
+AtliQ Hardwares is a global consumer electronics manufacturer, comparable to brands like HP and Dell. Although the company has been growing steadily worldwide, it has been facing major challenges in the Latin American market.A key reason behind these challenges is the company’s reliance on Excel files to manage large and complex datasets. While Excel is useful for basic reporting, it becomes inefficient as data volume increases. 
 
 This leads to several issues, such as:
 
